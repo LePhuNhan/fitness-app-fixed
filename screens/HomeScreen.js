@@ -45,7 +45,7 @@ const HomeScreen = () => {
                 fontSize: 18,
               }}
             >
-              {workout.toFixed(1)}
+              {workout}
             </Text>
             <Text style={{ color: "#D0D0D0", fontSize: 17, marginTop: 6 }}>
               WORKOUTS
